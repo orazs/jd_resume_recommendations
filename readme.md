@@ -1,7 +1,12 @@
 # Resume recommendations
 
-![quick demo](demo.gif)
+![quick demo](jd.gif)
 
+
+# About
+
+Simple Docker running job recommendation engine based on similarity score followed by results ranking.
+ 
 # Data
 JD and CVs were scrapped using Scrapy framework from local job board popular in KZ
 
@@ -10,7 +15,9 @@ JD and CVs were scrapped using Scrapy framework from local job board popular in 
 
 I used dash framework for interactive visualizations
 
+
 # Approach
 
 The simialarity score is based on title, description, skills and requirements.
+
 
