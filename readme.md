@@ -5,7 +5,7 @@
 
 # About
 
-Simple Docker running job recommendation engine based on similarity score followed by results ranking.
+Simple Docker running job [recommendation engine](http://185.234.114.28:4503) based on similarity score followed by results ranking.
  
 # Data
 JD and CVs were scrapped using Scrapy framework from local job board popular in KZ
